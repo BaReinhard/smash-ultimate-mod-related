@@ -1,0 +1,6 @@
+[submodule "skyline-smash"]
+	path = skyline-smash
+	url = git://github.com/ultimate-research/skyline-smash.git
+[submodule "skyline-rs"]
+	path = skyline-rs
+	url = git://github.com/ultimate-research/skyline-rs.git
