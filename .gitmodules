@@ -4,3 +4,6 @@
 [submodule "skyline-rs"]
 	path = skyline-rs
 	url = git://github.com/ultimate-research/skyline-rs.git
+[submodule "UltimateTrainingModpack"]
+	path = UltimateTrainingModpack
+	url = git://github.com/jugeeya/UltimateTrainingModpack.git
